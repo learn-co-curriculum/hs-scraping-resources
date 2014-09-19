@@ -3,6 +3,7 @@ tags: resources, kids, scraping, nokogiri
 languages: ruby
 type: resources
 ---
+
 <img src="http://www.allgreensites.com/news/gallery/web-site-scraping/web-site-scraping.jpg">
 
 # Scraping Resources
