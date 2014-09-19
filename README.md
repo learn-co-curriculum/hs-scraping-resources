@@ -1,14 +1,13 @@
---
+---
 tags: resources, kids, scraping, nokogiri
 languages: ruby
 type: resources
---
+---
+<img src="http://www.allgreensites.com/news/gallery/web-site-scraping/web-site-scraping.jpg">
 
 # Scraping Resources
 
 Want to dig deeper into the world of scraping? Let's put the KNOW in Nokogiri. (Sorry, that wasn't a very good pun.) Here are some additional resources to help you get further acquainted with this concept.
-
-<img src="http://www.allgreensites.com/news/gallery/web-site-scraping/web-site-scraping.jpg">
 
 ## Resources
 * [The Bastards Book of Ruby](http://www.ruby.bastardsbook.com/) - [An Intro to Web Scraping](http://ruby.bastardsbook.com/chapters/web-scraping/)
