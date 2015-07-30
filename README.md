@@ -1,8 +1,4 @@
----
-tags: resources, kids, scraping, nokogiri
-languages: ruby
-type: resources
----
+
 
 ## Scraping Resources
 
