@@ -11,4 +11,4 @@ Want to dig deeper into the world of scraping? Let's put the KNOW in Nokogiri. (
 * [RailsCasts](http://railscasts.com/) - [#190 Screen Scraping with Nokogiri](http://railscasts.com/episodes/190-screen-scraping-with-nokogiri)
 * [Nokogiri Documentation](http://nokogiri.org/)
 
-<a href='https://learn.co/lessons/hs-scraping-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-scraping-resources' title='Scraping Resources'>Scraping Resources</a> on Learn.co and start learning to code for free.</p>
